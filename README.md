@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @newcoder100000000
-- 👀 I’m interested in coding and beauty
+- 👀 I’m interested in coding
 - 🌱 I’m currently learning os
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me by issues.
